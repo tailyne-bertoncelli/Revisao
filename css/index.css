@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2? family= Inter & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Roboto & display=swap');
+
+.fundo{
+    position: relative;
+    width: 1440px;
+    height: 3166px;
+    background-color: #000235;
+}
+
+.efeito1{
+    position: absolute;
+    width: 481px;
+    height: 511px;
+    left: 1109px;
+    top: 305px;
+
+    background: rgba(93, 211, 249, 0.78);
+    filter: blur(175px);
+}
+
+.efeito2{
+    position: absolute;
+    width: 481px;
+    height: 466px;
+    left: 77px;
+    top: -161px;
+
+    background: rgba(75, 164, 198, 0.7);
+    filter: blur(125px);
+}
+
+.logo{
+    position: absolute;
+    width: 118px;
+    height: 39px;
+    left: 190px;
+    top: 61px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 39px;
+    color: white;
+}
+
+.opcoes{
+    display: flex;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    position: absolute;
+    width: 468px;
+    height: 24px;
+    left: 787px;
+    top: 67px;
+    justify-content: space-between;
+}
+
+.pagina1{
+    display: flex;
+    flex-direction: column;
+    width: 1070px;
+    height: 1024px;
+    justify-content: center;
+}
+
+.textos1{
+    position: absolute;
+    width: 451px;
+    left: 278px;
+    top: 337px;
+    bottom: 43.03%;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+    color: #FFFFFF;
+}
+
+.texto2{
+    position: absolute;
+    left: 278px;
+    right: 51.17%;
+    top: 461px;
+    bottom: 26.82%;
+ 
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.imagem1{
+    position: absolute;
+    left: 803px;
+    right: 0%;
+    top: 238px;
+    bottom: 8.48%;
+}
+
+.botao1{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    color:#FFFFFF;
+    position: relative;
+    top: 612px;
+    left: 278px;
+    width: 171px;
+    height: 58px;
+    border-radius: 50px;
+    background-color: #6C63FF;
+}
+
+.pagina2{
+    position: absolute;
+    width: 166px;
+    height: 36px;
+    left: 365px;
+    top: 809px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 29px;
+    line-height: 34px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.redes-socias{
+    
+}
