@@ -127,7 +127,7 @@
     width: 166px;
     height: 36px;
     left: 365px;
-    top: 809px;
+    top: 790px;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -138,6 +138,11 @@
     color: #FFFFFF;
 }
 
-.redes-socias{
-    
+.servedto{
+    position: absolute;
+    width: 891px;
+    height: 83px;
+    left: 306px;
+    top: 853px;
+    background: rgba(121, 114, 234, 0.58);
 }
