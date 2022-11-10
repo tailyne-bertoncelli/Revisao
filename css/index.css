@@ -127,7 +127,7 @@
     width: 166px;
     height: 36px;
     left: 365px;
-    top: 809px;
+    top: 790px;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -138,6 +138,78 @@
     color: #FFFFFF;
 }
 
-.redes-socias{
-    
+.servedto{
+    position: absolute;
+    width: 891px;
+    height: 83px;
+    left: 306px;
+    top: 853px;
+    background: rgba(121, 114, 234, 0.58);
+}
+
+.google{
+    position: absolute;
+    left: 252px;
+    top: 18px;
+}
+
+.github{
+    position: absolute;
+    top: 15px;
+    left: 360px;
+}
+
+.pagina3{
+    position: absolute;
+    width: 1065px;
+    height: 1006px;
+    left: 188px;
+    top: 1024px;
+}
+
+.texto1-pagina3{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    left: 533px;
+    right: 101.49px;
+
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+    bottom: 80.51%;
+}
+
+.texto2-pagina3{
+    position: absolute;
+    left: 536px;
+    right: 97px;
+    top: 196.8px;
+    bottom: 709.42px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.botao-pagina3{
+    position: absolute;
+    width: 171px;
+    height: 58px;
+    left: 536px;
+    top: 322px;
+    border-radius: 50px;
+    background-color: #6C63FF;
+
+    font-family: 'Roboto', bold, sans-serif;
+    font-style: SemiBold;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;
 }
